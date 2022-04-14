@@ -1,0 +1,9 @@
+{
+	"name": "cenipa-data",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03dc6a20-6877-491d-acdb-7f6f77f00552",
+		"tenantId": "67d2edc8-8dbe-42b2-8c55-e32017c7666a"
+	}
+}
